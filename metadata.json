@@ -1,0 +1,5 @@
+{
+  "name": "Smart Name Finder",
+  "description": "A powerful utility to compare two lists of names, identify missing entries, and use AI to find potential matches despite typos or formatting differences.",
+  "requestFramePermissions": []
+}
